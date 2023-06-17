@@ -28,8 +28,8 @@
   --rs-invisible-color: #b6b1b1;
   --rs-phone-visible: block;
   --rs-phone-color: var(--rs-online-color);
-  --customFont: "Whitney";
-  --rs-version: "1.0.2";
+  --customFont: "Source Code Pro";
+  --rs-version: "1.0.2.A";
   --logo-gif: url('https://i.imgur.com/z0WUs3L.gifv');
   --chat-bubble: 0;
 }
